@@ -30,4 +30,8 @@ Soy un estudiante de Ingenier√≠a en Sistemas apasionado por conectar el mundo f√
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAM-KBTO&layout=compact&theme=gotham&hide_border=true" />
 </a>
+  <a href="https://linkedin.com/in/TU-USUARIO-AQUI" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+  
 </div>
