@@ -31,7 +31,10 @@ Soy un estudiante de Ingenier√≠a en Sistemas apasionado por conectar el mundo f√
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAM-KBTO&layout=compact&theme=gotham&hide_border=true" />
 </a>
 
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="luis-alberto-castro-sandoval-1a2b3c" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/luis-alberto-castro-sandoval-1a2b3c?trk=profile-badge">Luis Alberto Castro Sandoval</a></div>
+<a href="https://www.linkedin.com/in/luis-alberto-castro-sandoval-1a2b3c" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
               
   
 </div>
